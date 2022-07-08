@@ -1,0 +1,8 @@
+{
+    "items": [
+        {"Category": "Phone", "ItemCode": "BPCM", "Description": "Compact", "Price": 29.99},
+        {"Category": "Phone", "ItemCode": "BSPH", "Description": "Clam Shell", "Price": 49.99},
+        {"Category": "Phone", "ItemCode": "RPSS", "Description": "RoboPhone - 5-inch screen and 64gb memory", "Price": 199.99},
+        {"Category": "Phone", "ItemCode": "RPLL", "Description": "RoboPhone - 6-inch screen and 256GB memory", "Price": 499.99},
+    ]
+}
