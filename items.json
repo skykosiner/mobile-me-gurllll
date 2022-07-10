@@ -2,7 +2,19 @@
     "items": [
         {"Category": "Phone", "ItemCode": "BPCM", "Description": "Compact", "Price": 29.99},
         {"Category": "Phone", "ItemCode": "BSPH", "Description": "Clam Shell", "Price": 49.99},
-        {"Category": "Phone", "ItemCode": "RPSS", "Description": "RoboPhone - 5-inch screen and 64gb memory", "Price": 199.99},
+        {"Category": "Phone", "ItemCode": "RPSS", "Description": "RoboPhone - 5-inch screen and 64GB memory", "Price": 199.99},
         {"Category": "Phone", "ItemCode": "RPLL", "Description": "RoboPhone - 6-inch screen and 256GB memory", "Price": 499.99},
+        {"Category": "Phone", "ItemCode": "YPLS", "Description": "Y-Phone Standard - 6 inch screen and 64GB memory", "Price": 549.99},
+        {"Category": "Phone", "ItemCode": "YPLL", "Description": "Y-Phone Deluxe - 6 inch screen and 256GB memory", "Price": 649.99},
+        {"Category": "Tablet", "ItemCode": "RTMS", "Description": "RoboTab - 8-inch screen and 64GB memory", "Price": 149.99},
+        {"Category": "Tablet", "ItemCode": "RTLM", "Description": "RoboTab - 10-inch screen and 128GB memory", "Price": 299.99},
+        {"Category": "Tablet", "ItemCode": "YTLM", "Description": "Y-Tab Standard - 10-inch screen and 128GB memory", "Price": 499.99},
+        {"Category": "Tablet", "ItemCode": "YTLL", "Description": "Y-Tab Deluxe - 10-inch screen and 256GB memory", "Price": 599.99},
+        {"Category": "SIM Card", "ItemCode": "SMNO", "Description": "Sim Free (no SIM card purchased)", "Price": 0.00},
+        {"Category": "SIM Card", "ItemCode": "SMPG", "Description": "Pas As You Go (SIM card purchased)", "Price": 9.99},
+        {"Category": "Case", "ItemCode": "CSST", "Description": "Standard", "Price": 0.00},
+        {"Category": "Case", "ItemCode": "CSLX", "Description": "Luxury", "Price": 50.00},
+        {"Category": "Charger", "ItemCode": "CGCR", "Description": "Car", "Price": 19.99},
+        {"Category": "Charger", "ItemCode": "CGHM", "Description": "Home", "Price": 15.99}
     ]
 }
